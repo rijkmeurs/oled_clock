@@ -33,8 +33,8 @@ Display - SH1106 OLED 128x64 0.96"
  **************************/
 
 // WIFI
-const char* WIFI_SSID = "KPN80E416";
-const char* WIFI_PWD = "mKfstkFHxMhNvKqf";
+const char* WIFI_SSID = "your_ssid";
+const char* WIFI_PWD = "your_pw";
 
 #define TZ              1       // (utc+) TZ in hours
 #define DST_MN          0      // use 60mn for summer time in some countries
